@@ -1,3 +1,7 @@
+### Firstly install all dependencies via 'npm install' command
+### Then, run the application via 'npm start' in the terminal
+### Now, open a new terminal and run this command 'npx json-server -p 3500 -w data/db.json' to start json server for CRUD operations
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
